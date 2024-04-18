@@ -1,7 +1,5 @@
 # Node Hello World
 
-Simple node.js app that servers "Techessay"
-
 Great for testing simple deployments on Cloud
 
 ## Step 1: Install NodeJS and NPM using nvm
